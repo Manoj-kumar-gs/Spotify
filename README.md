@@ -13,6 +13,16 @@ A responsive and interactive Spotify-inspired music player built with HTML, CSS,
 
 ---
 
+## 📷 Screenshots
+
+### 🖥️ Desktop View
+![Spotify Clone Desktop](images/ui/ui-desktop-look.png)
+
+### 📱 Mobile View (360px)
+![Spotify Clone Mobile](images/ui/ui-mobile-look.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 HTML • CSS • JavaScript • JSON
@@ -38,3 +48,9 @@ Just open `index.html` in your browser — no build tools or server setup needed
 ## 📌 Tags
 
 #spotify-clone #responsive-ui #html #css #javascript
+
+---
+
+## 📝 License
+
+This project is for demonstration and educational purposes. All branding and assets belong to their respective owners.

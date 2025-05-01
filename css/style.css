@@ -586,10 +586,14 @@ html {
 @media screen and (max-width: 402px) {
     .card {
         width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     .card>img {
-        width: 100%;
+        width: 300px;
+        height: 300px;
     }
 }
 
